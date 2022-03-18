@@ -27,7 +27,7 @@ module.exports = {
 			'tab'
 		],
 		'linebreak-style': [
-			'error',
+			'off',
 			'windows'
 		],
 		'quotes': [
@@ -38,6 +38,6 @@ module.exports = {
 			'error',
 			'always'
 		],
-		'no-mixed-spaces-and-tabs': 0
+		'no-mixed-spaces-and-tabs': 0,
 	}
 };
